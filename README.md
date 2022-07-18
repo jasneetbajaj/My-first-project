@@ -1,1 +1,1 @@
-# The Sparks Foundation - Data Science and Business Analytics Internship Projects
+# Supervised Machine Learning Project - Simple Linear Regression
